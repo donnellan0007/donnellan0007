@@ -5,5 +5,7 @@
 
 - 🔭 I'm working on a lot of things
 
-[comment [![@rphi's Holopin board](https://holopin.io/api/user/board?user=don)](https://holopin.io/@don) ]
+[gh stats](https://github-readme-stats.vercel.app/api?username=donnellan0007&hide=contribs,prs,issues)
+
+<!-- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=don)](https://holopin.io/@don) -->
 
