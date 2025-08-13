@@ -5,5 +5,5 @@
 
 - 🔭 I'm working on a lot of things
 
-[comment]: <> [![@rphi's Holopin board](https://holopin.io/api/user/board?user=don)](https://holopin.io/@don)
+[comment [![@rphi's Holopin board](https://holopin.io/api/user/board?user=don)](https://holopin.io/@don) ]
 
